@@ -1,4 +1,4 @@
-# Monokai Pro (CE) for [Notepad++](https://notepad-plus-plus.org/)
+# Monokai Pro (CE) for [Konsole](https://apps.kde.org/konsole/)
 
 ![Screenshot](screenshot.png)
 
